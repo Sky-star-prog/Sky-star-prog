@@ -20,9 +20,9 @@
 
  <form id="search-form">
 
- <input type="search" placeholder="Enter a city.." required class="search-input" 
+ <input type="search" placeholder="Kisumu.." required class="null" 
 
-id="search-input" />
+id="" />
 
  <input type="submit" value="Search" class="search-buton" />
 
